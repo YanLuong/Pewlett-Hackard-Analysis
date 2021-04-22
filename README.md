@@ -18,6 +18,9 @@ Retiring Employees By Title Analysis:
 ![retiring_titles](https://github.com/YanLuong/Pewlett-Hackard-Analysis/blob/main/Analysis_Projects_Folder/Pewlett-Hackard-Analysis%20Folder/Screen%20Shot%20Retiring%20Titles.png)
 
 
+
+![!mentorship eligibility](https://github.com/YanLuong/Pewlett-Hackard-Analysis/blob/main/Analysis_Projects_Folder/Pewlett-Hackard-Analysis%20Folder/Screen%20Shot%20Mentorship%20Eligibility.png)
+
 Results: Provide a bulleted list with four major points from the two analysis deliverables. Use images as support where needed.
 
 Summary: Provide high-level responses to the following questions, then provide two additional queries or tables that may provide more insight into the upcoming "silver tsunami."
