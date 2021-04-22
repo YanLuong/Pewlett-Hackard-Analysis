@@ -13,7 +13,9 @@ The purpose of this analysis is to determine which positions will need to be fil
 
 Retiring Employees By Title Analysis:
 
-![retiring_titles]()
+* 
+
+![retiring_titles](https://github.com/YanLuong/Pewlett-Hackard-Analysis/blob/main/Analysis_Projects_Folder/Pewlett-Hackard-Analysis%20Folder/Screen%20Shot%20Retiring%20Titles.png)
 
 
 Results: Provide a bulleted list with four major points from the two analysis deliverables. Use images as support where needed.
