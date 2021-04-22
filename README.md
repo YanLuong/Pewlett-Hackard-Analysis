@@ -11,12 +11,18 @@ The purpose of this analysis is to determine which positions will need to be fil
 ---
 ### Results
 
-Retiring Employees By Title Analysis:
+**Retiring Employees By Title Analysis:**
 
 * In the table below, the largest title group facing retirement soon is 'Senior Engineer' totalling 29414, closely followed by 'Senior Staff' with 28254 retiring soon.
-* The number of eligible employees facing retirement is extremely high. The table shows all the possible employees eligible for retirement, however it does not differentiate between current between current and employees that have already left.
+* The number of eligible employees facing retirement is extremely high. The table shows all the possible employees eligible for retirement, however it does not differentiate between current and employees that have already left.
 
 ![retiring_titles](https://github.com/YanLuong/Pewlett-Hackard-Analysis/blob/main/Analysis_Projects_Folder/Pewlett-Hackard-Analysis%20Folder/Screen%20Shot%20Retiring%20Titles.png)
+
+
+
+**Mentorship Eligibility Analysis:**
+
+* 
 
 
 
