@@ -22,7 +22,7 @@ The purpose of this analysis is to determine which positions will need to be fil
 
 **Mentorship Eligibility Analysis:**
 
-* 
+* The screenshot below, provides a list of the employees eligible for the mentorship. After running a count function in the database, the number eligible is only 1549. 
 
 
 
