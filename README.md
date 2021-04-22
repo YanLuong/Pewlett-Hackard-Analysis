@@ -2,7 +2,7 @@
 
 ### Background
 
-*Pewlett Hackard is a large company employing several thousands of people. The company has been around for a long time with a large number of its workforce facing retirement. Pewlett Hackard needs to plan ahead to minimize the impact of retiring staff and unfilled vacancies. *
+Pewlett Hackard is a large company employing several thousands of people. The company has been around for a long time with a large number of its workforce facing retirement. Pewlett Hackard needs to plan ahead to minimize the impact of retiring staff and unfilled vacancies. 
 
 ---
 ### Purpose
