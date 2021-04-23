@@ -40,3 +40,11 @@ Mentorship Eligibility list          |  Eligibility Per Title
   I believe that the results generated from the 'Retiring By Employees' analysis do not capture the correct amount. The queries pulled data from the 'employees' table includes employees that no longer work at the company. To capture a more accurate result, I would recommend using a filter to capture only present employees where 'to_date' = '9999-01-01'. Since there is an existing table consisting of employees retiring soon called 'retirement_info', I ran a query to filter out for only currently employed. The number generated is that 33,118 positions would need to be filled before the 'silver tsunami' begins.
   
 * Are there enough qualified, retirement-ready employees in the departments to mentor the next generation of Pewlett Hackard employees?
+
+
+Mentorship Eligibility list          |  Retiring Soon Per Title
+:-------------------------:|:-------------------------:
+![mentor eligibility by title](https://github.com/YanLuong/Pewlett-Hackard-Analysis/blob/main/Analysis_Projects_Folder/Pewlett-Hackard-Analysis%20Folder/Mentor_eligibility_by_title%20screenshot.png)  |  ![currently employed](https://github.com/YanLuong/Pewlett-Hackard-Analysis/blob/main/Analysis_Projects_Folder/Pewlett-Hackard-Analysis%20Folder/current_retiring_employees%20screenshot.png)
+
+
+
