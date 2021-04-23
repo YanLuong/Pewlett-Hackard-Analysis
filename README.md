@@ -36,10 +36,10 @@ Mentorship Eligibility list          |  Eligibility Per Title
 
 ### Summary:
 
-* *How many roles will need to be filled as the "silver tsunami" begins to make an impact?*
-  I believe that the results generated from the 'Retiring By Employees' analysis do not capture the correct amount. The queries pulled data from the 'employees' table includes employees that no longer work at the company. To capture a more accurate result, I would recommend using a filter to capture only present employees where 'to_date' = '9999-01-01'. Since there is an existing table consisting of employees retiring soon called 'retirement_info', I ran a query to filter out for only currently employed. The number generated is that 33,118 positions would need to be filled before the 'silver tsunami' begins.
+* ***How many roles will need to be filled as the "silver tsunami" begins to make an impact?***
+  I believe that the results generated from the 'Retiring By Employees' analysis do not capture the correct amount. The queries pulled data from the 'employees' table includes employees that no longer work at the company. To capture a more accurate result, I would recommend using a filter to capture only present employees where 'to_date' = '9999-01-01'. Since there is an existing table consisting of employees retiring soon called 'retirement_info', I ran a query to filter out for only currently employed. The number generated is that 33,118 positions would need to be filled before the 'silver tsunami' begins. Refer to the table below (image on the right) to see the full breakdown of the titles.
   
-* Are there enough qualified, retirement-ready employees in the departments to mentor the next generation of Pewlett Hackard employees?
+* ***Are there enough qualified, retirement-ready employees in the departments to mentor the next generation of Pewlett Hackard employees?*** If we refer back to the mentorship eligibility program in the results, we know that there are only 1549 employees eligible for the program (refer to table below, left image). In every position (except 'manager') there will be a shortfall. The good news is that there are plenty of retirement ready employees in the departments to mentor the next generation. The issue is that there are not enough eligible employees for the mentorship program to fill in the shortfall gap. The mentorship program would need to signifantly expand who is eligible by relaxing the criteria which currently only accepts employees born in the year 1965.
 
 
 Mentorship Eligibility list          |  Retiring Soon Per Title
