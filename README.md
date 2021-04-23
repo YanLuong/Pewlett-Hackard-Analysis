@@ -24,11 +24,11 @@ The purpose of this analysis is to determine which positions will need to be fil
 
 * The screenshot and table below, provides a list of the employees eligible for the mentorship. After running a count function in the database, the number eligible is only 1549. 
 
-![mentor eligibility by title](https://github.com/YanLuong/Pewlett-Hackard-Analysis/blob/main/Analysis_Projects_Folder/Pewlett-Hackard-Analysis%20Folder/Mentor_eligibility_by_title%20screenshot.png)
 
+Mentorship Eligibility list          |  Eligibility Per Title
+:-------------------------:|:-------------------------:
+![!mentorship eligibility](https://github.com/YanLuong/Pewlett-Hackard-Analysis/blob/main/Analysis_Projects_Folder/Pewlett-Hackard-Analysis%20Folder/Screen%20Shot%20Mentorship%20Eligibility.png)  |  ![mentor eligibility by title](https://github.com/YanLuong/Pewlett-Hackard-Analysis/blob/main/Analysis_Projects_Folder/Pewlett-Hackard-Analysis%20Folder/Mentor_eligibility_by_title%20screenshot.png)
 
-
-![!mentorship eligibility](https://github.com/YanLuong/Pewlett-Hackard-Analysis/blob/main/Analysis_Projects_Folder/Pewlett-Hackard-Analysis%20Folder/Screen%20Shot%20Mentorship%20Eligibility.png)
 
 Results: Provide a bulleted list with four major points from the two analysis deliverables. Use images as support where needed.
 
