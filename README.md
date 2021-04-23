@@ -22,7 +22,8 @@ The purpose of this analysis is to determine which positions will need to be fil
 
 **Mentorship Eligibility Analysis:**
 
-* The screenshot and table below, provides a list of the employees eligible for the mentorship. After running a count function in the database, the number eligible is only 1549. 
+* The screenshot below (left image), provides a list of the employees eligible for the mentorship program. After running a count function in the database, the number eligible is only 1549. 
+* To get another perspective of the employees eligible for the mentorship program, the table below (right image) groups by title and the count for each title.
 
 
 Mentorship Eligibility list          |  Eligibility Per Title
