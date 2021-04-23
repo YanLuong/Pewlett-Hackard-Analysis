@@ -23,7 +23,7 @@ The purpose of this analysis is to determine which positions will need to be fil
 **Mentorship Eligibility Analysis:**
 
 * The screenshot below (left image), provides a list of the employees eligible for the mentorship program. After running a count function in the database, the number eligible is only 1549. 
-* To get another perspective of the employees eligible for the mentorship program, the table below (right image) groups by title and the count for each title.
+* To get another perspective of the employees eligible for the mentorship program, the table below (right image) groups by title and the count for each title. We can see that the largest group eligible by title is 'Senior Staff' followed by 'Engineer'. The senior engineer position is currently filled with the largest group of employees retiring soon. However, in the mentorship eligibility results there are only 169 of them. Overall, when comparing the results from the earlier query (Retiring Employees By Title) to mentorship eligibility, there is a significant short fall.
 
 
 Mentorship Eligibility list          |  Eligibility Per Title
@@ -31,7 +31,8 @@ Mentorship Eligibility list          |  Eligibility Per Title
 ![!mentorship eligibility](https://github.com/YanLuong/Pewlett-Hackard-Analysis/blob/main/Analysis_Projects_Folder/Pewlett-Hackard-Analysis%20Folder/Screen%20Shot%20Mentorship%20Eligibility.png)  |  ![mentor eligibility by title](https://github.com/YanLuong/Pewlett-Hackard-Analysis/blob/main/Analysis_Projects_Folder/Pewlett-Hackard-Analysis%20Folder/Mentor_eligibility_by_title%20screenshot.png)
 
 
-Results: Provide a bulleted list with four major points from the two analysis deliverables. Use images as support where needed.
+
+----
 
 Summary: Provide high-level responses to the following questions, then provide two additional queries or tables that may provide more insight into the upcoming "silver tsunami."
 
