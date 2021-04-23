@@ -22,7 +22,9 @@ The purpose of this analysis is to determine which positions will need to be fil
 
 **Mentorship Eligibility Analysis:**
 
-* The screenshot below, provides a list of the employees eligible for the mentorship. After running a count function in the database, the number eligible is only 1549. 
+* The screenshot and table below, provides a list of the employees eligible for the mentorship. After running a count function in the database, the number eligible is only 1549. 
+
+![mentor eligibility by title](https://github.com/YanLuong/Pewlett-Hackard-Analysis/blob/main/Analysis_Projects_Folder/Pewlett-Hackard-Analysis%20Folder/Mentor_eligibility_by_title%20screenshot.png)
 
 
 
